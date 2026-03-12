@@ -1,0 +1,15 @@
+# Ignorar archivo de configuración con credenciales reales
+app/config/config.php
+
+# Si el archivo db.php también tiene contraseñas, quítale el numeral a la siguiente línea:
+# app/config/db.php
+
+# Ignorar dependencias de Composer (¡Muy importante!)
+vendor/
+
+# Ignorar configuración local del editor de código
+.vscode/
+
+# Ignorar archivos basura del sistema operativo
+.DS_Store
+Thumbs.db

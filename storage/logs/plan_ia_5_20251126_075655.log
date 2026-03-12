@@ -1,0 +1,131 @@
+{
+  "resumen_ejecutivo": "La campaña Fibra Hogar Diciembre de Conecta Telecomunicaciones S.A.C. busca incrementar el reconocimiento de la marca y del servicio de Alta GPON entre adultos mayores de 50 años en San Juan de Lurigancho, Lima. Se implementarán estrategias digitales enfocadas en Facebook y YouTube para maximizar el alcance y la interacción, aprovechando contenido educativo y testimonios que resalten la confiabilidad y calidad del servicio. La campaña se desarrollará entre el 29 de noviembre y el 13 de diciembre de 2025, con un presupuesto cero, por lo que se priorizarán tácticas orgánicas y colaboraciones estratégicas para lograr los objetivos planteados.",
+  "segmentacion_y_publico_objetivo": {
+    "geográfica": "Zona específica: CAL.LOS JASPES NRO. 1703, San Juan de Lurigancho, Lima, Perú",
+    "demográfica": {
+      "edad": "50 años en adelante",
+      "sexo": "Ambos",
+      "nivel socioeconómico": "Clases media y media baja"
+    },
+    "psicográfica": {
+      "intereses": ["Conectividad estable", "Facilidad en el uso de tecnología", "Comunicación con familiares", "Seguridad y confianza en servicios"],
+      "valores": ["Confianza", "Calidad", "Simplicidad"]
+    },
+    "comportamental": {
+      "uso de tecnología": "Usuarios con uso básico a intermedio de internet y redes sociales",
+      "lealtad": "Busca proveedores confiables y atención personalizada",
+      "motivaciones": "Mejorar la comunicación con familiares, acceso a entretenimiento y servicios digitales"
+    },
+    "microsegmentos": [
+      "Adultos mayores que usan Facebook para comunicarse con familiares",
+      "Adultos mayores que consumen videos en YouTube para entretenimiento y aprendizaje"
+    ]
+  },
+  "propuesta_valor_y_posicionamiento": {
+    "propuesta_valor": "Alta GPON de Conecta Telecomunicaciones ofrece una conexión de fibra óptica rápida, estable y confiable diseñada para facilitar la comunicación y el acceso digital de adultos mayores, con un servicio personalizado y soporte cercano.",
+    "posicionamiento": "Conecta Telecomunicaciones es la opción líder en San Juan de Lurigancho para adultos mayores que buscan una conexión de internet de alta calidad, con atención dedicada y tecnología avanzada que mejora su calidad de vida digital."
+  },
+  "objetivos_marketing": [
+    {
+      "objetivo": "Incrementar el reconocimiento de la marca Conecta Telecomunicaciones en el segmento de adultos mayores en San Juan de Lurigancho.",
+      "indicador": "Alcance orgánico y visualizaciones en Facebook y YouTube",
+      "meta": "Alcanzar 5,000 personas dentro del segmento objetivo",
+      "plazo": "13 de diciembre de 2025"
+    },
+    {
+      "objetivo": "Aumentar la interacción con el contenido digital relacionado a Alta GPON en adultos mayores.",
+      "indicador": "Número de reacciones, comentarios y compartidos en publicaciones orgánicas",
+      "meta": "Lograr al menos 300 interacciones en Facebook y YouTube",
+      "plazo": "13 de diciembre de 2025"
+    },
+    {
+      "objetivo": "Generar al menos 50 consultas directas sobre el servicio Alta GPON a través de Facebook Messenger y YouTube comentarios.",
+      "indicador": "Cantidad de consultas recibidas",
+      "meta": "50 consultas",
+      "plazo": "13 de diciembre de 2025"
+    }
+  ],
+  "estrategias": [
+    {
+      "titulo": "Marketing de Contenidos Educativos y Testimonios",
+      "descripcion": "Crear y difundir videos y publicaciones que expliquen los beneficios y facilidad de uso del servicio Alta GPON, con testimonios de clientes adultos mayores para generar confianza.",
+      "canal": "Facebook y YouTube",
+      "cta": "Invitar a los usuarios a consultar y compartir sus dudas o experiencias."
+    },
+    {
+      "titulo": "Optimización de Presencia Orgánica en Redes Sociales",
+      "descripcion": "Publicar contenido frecuente y relevante, aprovechar grupos y comunidades locales en Facebook para difundir la campaña sin inversión en publicidad pagada.",
+      "canal": "Facebook",
+      "cta": "Unirse a la conversación y seguir la página para más información."
+    },
+    {
+      "titulo": "Alianzas con Líderes Comunitarios y Organizaciones Locales",
+      "descripcion": "Colaborar con líderes y organizaciones que trabajen con adultos mayores para amplificar el mensaje y facilitar la difusión directa en la comunidad.",
+      "canal": "Canales offline y redes sociales de aliados",
+      "cta": "Participar en eventos o charlas informativas."
+    }
+  ],
+  "tacticas_y_calendarizacion": {
+    "mes_11": {
+      "semana_5": [
+        "Diseño y producción de videos educativos y testimonios.",
+        "Preparación de publicaciones para Facebook y YouTube.",
+        "Identificación y contacto con líderes comunitarios y organizaciones."
+      ]
+    },
+    "mes_12": {
+      "semana_1": [
+        "Publicación diaria de contenido en Facebook y YouTube.",
+        "Difusión en grupos y comunidades locales de Facebook.",
+        "Inicio de colaboración con aliados para eventos o charlas."
+      ],
+      "semana_2": [
+        "Interacción activa con usuarios en comentarios y mensajes.",
+        "Promoción cruzada con aliados en redes sociales.",
+        "Monitoreo de KPIs y ajuste de contenido según respuesta."
+      ]
+    }
+  },
+  "kpis_y_metas": [
+    {
+      "kpi": "Alcance orgánico en Facebook y YouTube",
+      "meta": "5,000 personas del segmento objetivo"
+    },
+    {
+      "kpi": "Número de interacciones (reacciones, comentarios, compartidos)",
+      "meta": "300 interacciones"
+    },
+    {
+      "kpi": "Consultas recibidas sobre Alta GPON",
+      "meta": "50 consultas"
+    },
+    {
+      "kpi": "Número de alianzas establecidas con líderes y organizaciones",
+      "meta": "3 alianzas"
+    }
+  ],
+  "presupuesto_recomendado": {
+    "total_usd": 0,
+    "partidas": [
+      {
+        "concepto": "Producción de contenido audiovisual (in-house o voluntario)",
+        "monto": 0
+      },
+      {
+        "concepto": "Gestión de redes sociales y moderación de comunidad",
+        "monto": 0
+      },
+      {
+        "concepto": "Colaboración con líderes comunitarios y organizaciones locales (sin costo)",
+        "monto": 0
+      }
+    ]
+  },
+  "recomendaciones_finales": [
+    "Aprovechar al máximo el contenido orgánico y la interacción directa para compensar la ausencia de presupuesto publicitario.",
+    "Fomentar la participación activa de la comunidad local para aumentar la confianza y el alcance de la campaña.",
+    "Capacitar al equipo de atención al cliente para responder rápida y eficazmente las consultas generadas.",
+    "Medir y documentar los resultados para optimizar futuras campañas con recursos limitados.",
+    "Explorar oportunidades de microinfluencers locales o voluntarios que puedan amplificar el mensaje sin costo."
+  ]
+}

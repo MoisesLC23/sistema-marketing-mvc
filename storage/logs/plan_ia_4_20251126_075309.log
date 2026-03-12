@@ -1,0 +1,178 @@
+{
+  "resumen_ejecutivo": "El plan de marketing para la Campaña Fibra Hogar Diciembre está diseñado para aumentar las ventas del servicio de fibra óptica dirigido a jóvenes de 18 a 29 años en San Juan de Lurigancho, Lima. Se implementarán estrategias digitales focalizadas en Facebook y YouTube para maximizar el alcance y la conversión, aprovechando contenido atractivo y ofertas especiales. La campaña se ejecutará desde finales de noviembre 2025 hasta marzo 2026, con un presupuesto de 6,000 USD distribuido en publicidad digital, generación de contenidos y promociones, garantizando resultados medibles y un incremento significativo en la captación de clientes residenciales en la zona objetivo.",
+  "segmentacion_y_publico_objetivo": {
+    "geográfica": "San Juan de Lurigancho, Lima, Perú, específicamente en la calle Los Jaspes Nro. 1703",
+    "demográfica": {
+      "edad": "18-29 años",
+      "sexo": "Ambos",
+      "nivel socioeconómico": "C y D"
+    },
+    "psicográfica": {
+      "estilo de vida": "Jóvenes conectados digitalmente, estudiantes universitarios y jóvenes profesionales interesados en tecnología y entretenimiento en línea",
+      "valores": "Innovación, rapidez, calidad en el servicio y conectividad fiable"
+    },
+    "comportamental": {
+      "uso de tecnología": "Usuarios intensivos de internet para streaming, gaming, redes sociales y educación en línea",
+      "lealtad": "Buscan proveedores confiables con buen servicio al cliente y soporte técnico"
+    },
+    "microsegmentos": [
+      "Estudiantes universitarios que requieren conexión estable para clases virtuales",
+      "Jóvenes profesionales que trabajan desde casa y necesitan alta velocidad de internet",
+      "Usuarios gamers y streamers que demandan baja latencia y alta velocidad"
+    ]
+  },
+  "propuesta_valor_y_posicionamiento": {
+    "propuesta_valor": "Conecta Telecomunicaciones ofrece un servicio de fibra óptica de alta velocidad con instalación rápida y soporte técnico confiable, diseñado para jóvenes que demandan conectividad estable y eficiente para su vida digital diaria.",
+    "posicionamiento": "La opción líder en San Juan de Lurigancho para jóvenes que buscan calidad, innovación y un servicio de internet de fibra óptica que potencie su entretenimiento, estudio y trabajo desde casa."
+  },
+  "objetivos_marketing": [
+    {
+      "objetivo": "Incrementar las ventas del servicio Fibra Hogar en un 30% en la zona objetivo",
+      "indicador": "Número de contratos nuevos firmados",
+      "meta": "Aumentar contratos de 100 a 130",
+      "plazo": "29 noviembre 2025 a 12 marzo 2026"
+    },
+    {
+      "objetivo": "Alcanzar un alcance de 50,000 jóvenes en San Juan de Lurigancho a través de campañas digitales",
+      "indicador": "Número de impresiones y alcance en Facebook y YouTube",
+      "meta": "50,000 usuarios únicos alcanzados",
+      "plazo": "29 noviembre 2025 a 12 marzo 2026"
+    },
+    {
+      "objetivo": "Mejorar la tasa de conversión en campañas digitales al 5%",
+      "indicador": "Porcentaje de clics que se convierten en ventas",
+      "meta": "Tasa de conversión del 5%",
+      "plazo": "29 noviembre 2025 a 12 marzo 2026"
+    },
+    {
+      "objetivo": "Incrementar el reconocimiento de marca en el segmento joven en San Juan de Lurigancho en un 20%",
+      "indicador": "Encuestas de reconocimiento de marca pre y post campaña",
+      "meta": "20% aumento en recordación de marca",
+      "plazo": "29 noviembre 2025 a 12 marzo 2026"
+    }
+  ],
+  "estrategias": [
+    {
+      "titulo": "Publicidad segmentada en Facebook y YouTube",
+      "descripcion": "Implementar campañas de anuncios pagados altamente segmentados para jóvenes de 18-29 años en la ubicación objetivo, usando formatos de video y carrusel para destacar beneficios y promociones.",
+      "canal": "Facebook, YouTube (Google Ads)",
+      "cta": "Contrata ahora y disfruta de velocidad superior"
+    },
+    {
+      "titulo": "Contenido educativo y de entretenimiento",
+      "descripcion": "Crear videos y posts que expliquen ventajas de la fibra óptica, casos de uso para estudiantes y gamers, y testimonios de clientes actuales para generar confianza y engagement.",
+      "canal": "Facebook, YouTube",
+      "cta": "Descubre por qué elegir Conecta Telecomunicaciones"
+    },
+    {
+      "titulo": "Promociones especiales por tiempo limitado",
+      "descripcion": "Ofrecer descuentos exclusivos y beneficios adicionales para nuevos clientes que contraten durante la campaña, incentivando la rápida decisión de compra.",
+      "canal": "Facebook, YouTube, página web",
+      "cta": "Aprovecha la promoción y contrata hoy"
+    },
+    {
+      "titulo": "Servicio al cliente y soporte en redes sociales",
+      "descripcion": "Implementar atención rápida y personalizada en redes sociales para resolver dudas y facilitar el proceso de contratación.",
+      "canal": "Facebook",
+      "cta": "Consulta con nuestro equipo en línea"
+    }
+  ],
+  "tacticas_y_calendarizacion": {
+    "mes_1": {
+      "semana_1": [
+        "Lanzamiento de campaña con video promocional en Facebook y YouTube",
+        "Publicación de posts educativos sobre ventajas de la fibra óptica"
+      ],
+      "semana_2": [
+        "Inicio de campaña pagada segmentada en Facebook y YouTube",
+        "Promoción especial de descuento para nuevos contratos"
+      ],
+      "semana_3": [
+        "Publicación de testimonios de clientes y casos de uso",
+        "Atención personalizada en redes sociales para consultas"
+      ],
+      "semana_4": [
+        "Refuerzo de anuncios con enfoque en promociones limitadas",
+        "Encuesta inicial de reconocimiento de marca en la audiencia"
+      ]
+    },
+    "mes_2": {
+      "semana_1": [
+        "Publicación de contenido de entretenimiento relacionado con gaming y streaming",
+        "Campaña de retargeting para usuarios que interactuaron con anuncios"
+      ],
+      "semana_2": [
+        "Promoción flash de instalación gratuita para nuevos clientes",
+        "Respuesta activa a comentarios y mensajes en redes"
+      ],
+      "semana_3": [
+        "Videos en vivo y Q&A sobre beneficios del servicio",
+        "Monitoreo y optimización de campañas digitales"
+      ],
+      "semana_4": [
+        "Publicación de resultados parciales y testimonios recientes",
+        "Incremento de inversión en anuncios con mejor desempeño"
+      ]
+    },
+    "mes_3": {
+      "semana_1": [
+        "Última promoción de cierre de campaña con ofertas exclusivas",
+        "Recordatorio en redes sociales sobre fecha límite de promociones"
+      ],
+      "semana_2": [
+        "Encuesta final de reconocimiento de marca y satisfacción",
+        "Análisis de resultados y preparación de reporte final"
+      ]
+    }
+  },
+  "kpis_y_metas": [
+    {
+      "kpi": "Número de contratos nuevos",
+      "meta": "130 contratos"
+    },
+    {
+      "kpi": "Alcance en redes sociales",
+      "meta": "50,000 usuarios únicos"
+    },
+    {
+      "kpi": "Tasa de conversión en campañas digitales",
+      "meta": "5%"
+    },
+    {
+      "kpi": "Incremento en reconocimiento de marca",
+      "meta": "20%"
+    },
+    {
+      "kpi": "Interacciones en redes sociales (comentarios, mensajes)",
+      "meta": "Incremento del 25% respecto a campaña previa"
+    }
+  ],
+  "presupuesto_recomendado": {
+    "total_usd": 6000,
+    "partidas": [
+      {
+        "concepto": "Publicidad pagada en Facebook y YouTube",
+        "monto": 3500
+      },
+      {
+        "concepto": "Producción de contenido audiovisual (videos, posts)",
+        "monto": 1200
+      },
+      {
+        "concepto": "Promociones y descuentos para nuevos clientes",
+        "monto": 800
+      },
+      {
+        "concepto": "Gestión y atención en redes sociales",
+        "monto": 500
+      }
+    ]
+  },
+  "recomendaciones_finales": [
+    "Monitorear diariamente el desempeño de las campañas para hacer ajustes rápidos y maximizar el retorno de inversión.",
+    "Fomentar la interacción en redes sociales para aumentar el engagement y mejorar la percepción de marca.",
+    "Capacitar al equipo de atención al cliente para resolver dudas y cerrar ventas rápidamente a través de redes sociales.",
+    "Utilizar testimonios y casos de éxito para generar confianza y reducir la percepción de riesgo en nuevos clientes.",
+    "Planificar una evaluación post-campaña para analizar resultados y aprender para futuras campañas."
+  ]
+}
